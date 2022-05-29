@@ -132,9 +132,7 @@ text-decoration: none;
 .section.team {
     background-color: #F5F4FA;
 }
-.team-link {
-    text-decoration: none;
-}
+
 /* Futer */
 .logo-light {
     color: var(--background-white-color);
@@ -161,7 +159,7 @@ address {
 }
 
 /* -------------- PORTFOLIO -------------- */
-.subject .subject-desk {
+.subject-desk {
     font-weight: 700;
     font-size: 18px;
     line-height: 2;
@@ -173,4 +171,7 @@ address {
     line-height: 1.19;
     letter-spacing: 0.03em;
     color: var(--primary-text-color);
+}
+.text-link {
+    text-decoration: none;
 }
