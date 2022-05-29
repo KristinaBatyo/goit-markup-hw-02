@@ -132,6 +132,9 @@ text-decoration: none;
 .section.team {
     background-color: #F5F4FA;
 }
+.text-link {
+    text-decoration: none;
+}
 
 /* Futer */
 .logo-light {
@@ -172,6 +175,6 @@ address {
     letter-spacing: 0.03em;
     color: var(--primary-text-color);
 }
-.text-link.decoration {
+.list-decoration {
     text-decoration: none;
 }
